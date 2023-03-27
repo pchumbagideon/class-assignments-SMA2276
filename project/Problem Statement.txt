@@ -1,0 +1,9 @@
+The project aims to develop a stopwatch application using  c++ thhat 
+accurately measures the elapsed time between two points in a program.
+The stopwatch will be implemented using the high resolution clock class
+from the 11c++ chrono library, allowing for precise timing measurements 
+in microseconds. The program will allow the user to start and stop the 
+stopwatch at any point during the program excecution and calculate the elapsed
+time in seconds or milliseconds. The application will include features  such as 
+ the ability to stop and resume the stopwatch, record split times and
+print the timing results to the console or a file.
